@@ -14,6 +14,10 @@ This project demonstrates **advanced Excel skills** through a Sales Dashboard us
 
 The goal: Analyze sales by **country, product category, and individual products**, while demonstrating **XLOOKUP, IFERROR, Pivot Tables, and charts**.  
 
+
+💾 Data Cleaning
+
+Some of the data contained empty values, so I removed those rows to focus only on the real, meaningful data. This made sure all calculations, charts, and insights were accurate and reliable.
 ---
 
 ## 🛠️ **Techniques & Formulas Used**
