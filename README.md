@@ -92,7 +92,7 @@ Column/Pie Chart: Revenue by Product Category
 Column Chart (Top 10 Products): Highlights top products by revenue
 
 Dashboard Image
-IMAGE
+dashboard.png
 
 Created entirely in Excel using XLOOKUP, Pivot Tables, and charts. Summarizes total sales by country, revenue by category, and top-performing products.
 
