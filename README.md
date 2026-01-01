@@ -83,15 +83,7 @@ Top 10 products make up ~17.5% of revenue
 
 Guides stocking, bundling, and promotions
 
-📈 Charts & Dashboard
-Bar Chart: Total Sales by Country
-
-Column/Pie Chart: Revenue by Product Category
-
-Column Chart (Top 10 Products): Highlights top products by revenue
-
-Dashboard Image
-![Dashboard Image](./images/dashboard.png)
+**📈 Revenue Distribution Insights by Country & Category**
 
 
 Created entirely in Excel using XLOOKUP, Pivot Tables, and charts. Summarizes total sales by country, revenue by category, and top-performing products.
