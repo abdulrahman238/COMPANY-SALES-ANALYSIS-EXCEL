@@ -52,7 +52,7 @@ Total Sales with Error Handling
 Prevents errors when Quantity or Unit Price is missing
 ```
 Revenue by Country IIMAGE
-IMAGE HERE
+![IMAGE alt](https://github.com/abdulrahman238/COMPANY-SALES-ANALYSIS-EXCEL/blob/4e70dd08c563e3f652ba05a05b320ec131d77ed9/revenue%20by%20country.png)
 
 💡 Key Insights;
 
