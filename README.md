@@ -51,7 +51,7 @@ Total Sales with Error Handling
 =IFERROR(Quantity*UnitPrice,0)
 Prevents errors when Quantity or Unit Price is missing
 ```
-*REVENUE BY COUNTRY*
+**REVENUE BY COUNTRY**
 ![IMAGE alt](https://github.com/abdulrahman238/COMPANY-SALES-ANALYSIS-EXCEL/blob/4e70dd08c563e3f652ba05a05b320ec131d77ed9/revenue%20by%20country.png)
 
 💡 Key Insights;
@@ -62,7 +62,7 @@ Prevents errors when Quantity or Unit Price is missing
 
 Focus marketing and inventory on high-performing countries
 
-*REVENUE BY PRODUCT CATEGORY*
+**REVENUE BY PRODUCT CATEGORY**
 ![IMAGE alt](https://github.com/abdulrahman238/COMPANY-SALES-ANALYSIS-EXCEL/blob/54cf83098258224d2146188799f2e87cb0ce9834/product%20category.png)
 
 💡 Key Insights;
@@ -74,7 +74,7 @@ Sports performs strongly in Kenya & South Africa
 Helps prioritize inventory, marketing & promotions
 
 Top 10 Performing Products IMAGE
-IMAGE SHOULD BE HERE 
+![IMAGE alt](https://github.com/abdulrahman238/COMPANY-SALES-ANALYSIS-EXCEL/blob/8e58abd2cb0c0d5a926247ca8b1feb249f08bb0d/top%2010%20products%20.png)
 Takeaways:
 
 Product_459 is the top-selling product
