@@ -84,7 +84,28 @@ Top 10 products make up ~17.5% of revenue
 Guides stocking, bundling, and promotions
 
 **📈 Revenue Distribution Insights by Country & Category**
+![IMAGE alt](https://github.com/abdulrahman238/COMPANY-SALES-ANALYSIS-EXCEL/blob/2574faaaa41cc7f3f050e782526c483fa2fe0bbb/precentage%20column.png)
 
+💡 Key Insights;
+🌍 Key Observations
+
+Canada shows strong interest in Electronics (30.52%) and Clothing (28.49%), making these two the biggest contributors to Canadian revenue.
+
+Ghana is almost evenly split, with the top categories being Electronics (24.46%), Sports (25.04%), and Home (22.90%) — suggesting a more balanced demand across categories.
+
+In the UK, Clothing (31.58%) and Home (28.63%) dominate, showing a heavy focus on lifestyle-related products.
+
+Kenya has a high contribution from Sports (29.68%) and Electronics (27.42%), which suggests strong demand for active and tech-related items.
+
+Nigeria is driven mostly by Electronics (37.13%), making it the top-performing category in the country by a wide margin.
+
+In the USA, the biggest categories are Home (28.39%), Clothing (25.54%), and Sports (22.13%), showing a mix of household and lifestyle spending.
+
+South Africa also has strong interest in Sports (24.70%) and Food (22.21%), indicating a balance between essentials and recreational items.
+
+🧠 What This Means
+
+Overall, Electronics stands out globally, performing strongly in almost every country. Categories like Sports and Home also perform well in specific regions, while Clothing remains consistently strong across Canada, UK, and USA.
 
 Created entirely in Excel using XLOOKUP, Pivot Tables, and charts. Summarizes total sales by country, revenue by category, and top-performing products.
 
