@@ -1,5 +1,5 @@
 # 🚀 **COMPANY SALES ANALYSIS – Excel**
-
+#Analyzed a large retail dataset to uncover revenue insights by country, category, and top products. Built using XLOOKUP, Pivot Tables, and dynamic dashboards to visualize sales trends and highlight business opportunities
 **Advanced Excel project showcasing data analysis, dashboards, and actionable business insights.**
 
 ---
