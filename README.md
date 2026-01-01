@@ -51,7 +51,7 @@ Total Sales with Error Handling
 =IFERROR(Quantity*UnitPrice,0)
 Prevents errors when Quantity or Unit Price is missing
 ```
-Revenue by Country IIMAGE
+*REVENUE BY COUNTRY*
 ![IMAGE alt](https://github.com/abdulrahman238/COMPANY-SALES-ANALYSIS-EXCEL/blob/4e70dd08c563e3f652ba05a05b320ec131d77ed9/revenue%20by%20country.png)
 
 💡 Key Insights;
@@ -62,9 +62,8 @@ Revenue by Country IIMAGE
 
 Focus marketing and inventory on high-performing countries
 
-Revenue by Product Category IMAGE
-
-IMAGE SHOULD BE HERE
+*REVENUE BY PRODUCT CATEGORY*
+![IMAGE alt](https://github.com/abdulrahman238/COMPANY-SALES-ANALYSIS-EXCEL/blob/54cf83098258224d2146188799f2e87cb0ce9834/product%20category.png)
 
 💡 Key Insights;
 
