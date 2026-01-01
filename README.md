@@ -107,5 +107,7 @@ South Africa also has strong interest in Sports (24.70%) and Food (22.21%), indi
 
 Overall, Electronics stands out globally, performing strongly in almost every country. Categories like Sports and Home also perform well in specific regions, while Clothing remains consistently strong across Canada, UK, and USA.
 
-Created entirely in Excel using XLOOKUP, Pivot Tables, and charts. Summarizes total sales by country, revenue by category, and top-performing products.
+
+
+This Project was Created entirely in Excel using XLOOKUP, Pivot Tables, and charts. Summarizes total sales by country, revenue by category, and top-performing products.
 
