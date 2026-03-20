@@ -3,6 +3,9 @@
 **Advanced Excel project showcasing data analysis, dashboards, and actionable business insights.**
 
 ---
+Overview of Workflow
+![IMAGE alt](company.png)
+
 
 ## 📊 **Project Overview**
 
